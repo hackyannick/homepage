@@ -7,7 +7,7 @@
   <footer class="page-footer">
     <div class="small-print">
       <div class="container">
-        <p>Copyright &copy; <?php echo date("Y");?> Yannick Hack</p>
+        <p>Copyright &copy; 2017 - <?php echo date("Y");?> Yannick Hack</p>
       </div>
     </div>
   </footer>
