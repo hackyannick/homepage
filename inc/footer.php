@@ -8,6 +8,7 @@
     <div class="small-print">
       <div class="container">
         <p>Copyright &copy; 2017 - <?php echo date("Y");?> Yannick Hack</p>
+        <a href="https://github.com/hackyannick/homepage" target="_blank">Seiten Quelltext</a>
       </div>
     </div>
   </footer>
