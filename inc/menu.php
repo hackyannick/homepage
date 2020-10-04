@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="maValidation" content="5cfb3a56bd7bc176202838d5e526fee1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <noscript><meta http-equiv="refresh" content="0; url=nojs.html" /></noscript>
   <link href="css/stylesheet.css" rel="stylesheet">
   <title>Yannick Hack</title>
   <style>
