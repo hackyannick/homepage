@@ -1,4 +1,4 @@
- <meta http-equiv="refresh" content="0; URL=https://www.yannick-hack.de/index.php">
+ <meta http-equiv="refresh" content="6; URL=https://www.yannick-hack.de/index.php">
 
  </div>
     </div>
