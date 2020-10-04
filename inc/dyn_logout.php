@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; URL=https://sso.yannick-hack.de/auth/realms/homepage/protocol/openid-connect/logout?https://www.yannick-hack.de/logout.php">
