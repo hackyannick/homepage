@@ -23,7 +23,7 @@ Try adding file to application first, if you fail try the another method mention
 
                 function logout() {
                     //
-                    keycloak.logout('https://sso.yannick-hack.de/auth/realms/homepage/protocol/openid-connect/logout?https://www.yannick-hack.de/logout.php')
+                    keycloak.logout('https://sso.yannick-hack.de/auth/realms/homepage/protocol/openid-connect/logout?https://www.yannick-hack.io/logout.php')
                     alert("Logged Out");
                 }
 

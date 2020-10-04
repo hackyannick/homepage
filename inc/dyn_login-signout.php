@@ -1,21 +1,6 @@
- <meta http-equiv="refresh" content="6; URL=https://www.yannick-hack.de/index.php">
+ <meta http-equiv="refresh" content="0; URL=https://www.yannick-hack.de/logout_info.php">
 
- </div>
-    </div>
-  </nav>
-  <section class="content">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6"></div>
-        <div class="col-sm-6">
-          <h2 class="section-header">Information</h2><br>
-          <br>
-          <p class="lead text-muted">Sie haben sich erfolgreich am Authentifizierungs Dienst abgemeldet.</p>
-          <p></p><br>
-          <p></p><br>
-        </div>
-      </div>
-    
-  </center>
+    <iframe src="https://sso.yannick-hack.de/auth/realms/homepage/protocol/openid-connect/logout?https://www.yannick-hack.io/index.php" name="logout_helper" id="logout_helper" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="1" width="1">
+</iframe>
     
     </div>
