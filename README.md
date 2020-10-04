@@ -1,4 +1,4 @@
-# homepage
+# Homepage
 
 Quelltext meiner Homepage mitsamt SSO Funktionalität.
 
