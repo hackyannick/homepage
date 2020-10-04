@@ -64,4 +64,6 @@
   <nav id="siteNav" class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button> <a class="navbar-brand" href="index.php"><span class="glyphicon glyphicon-fire"></span> Yannick Hack</a>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+        </span></button> <a class="navbar-brand" href="login.php"><span class=""></span>Anmelden  </a>
+         <span class="icon-bar"></span></button> <a class="navbar-brand" href="index.php"><span class="glyphicon glyphicon-fire"></span> Yannick Hack</a>
