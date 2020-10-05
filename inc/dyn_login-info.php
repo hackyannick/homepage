@@ -1,4 +1,4 @@
-  <meta http-equiv="refresh" content="6; URL=https://www.yannick-hack.de/index.php">
+  <meta http-equiv="refresh" content="6; URL=index.php">
 
  
  </div>
@@ -13,7 +13,7 @@
           <br>
           <p class="lead text-muted">Sie haben sich erfolgreich am Authentifizierungs Dienst angemeldet.</p>
           <p></p><br>
-          <a href="https://www.yannick-hack.de/logout.php">Abmelden</a>
+          <a href="logout.php">Abmelden</a>
         </div>
       </div>
 		
