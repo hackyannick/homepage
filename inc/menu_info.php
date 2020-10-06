@@ -2,11 +2,8 @@
 <html lang="de">
 <head>
   <meta charset="utf-8">
-  <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Yannick Hack Fachinformatiker Systemintegration für die Region.">
-<!-- og:image::files/assets/pictures/logo.png --><meta property="og:image" content="https://www.yannick-hack.io/assets/pictures/logo.png"/><meta property="og:image:secure_url" content="https://www.yannick-hack.io/assets/pictures/logo.png"/><meta property="og:image:width" content="500"/><meta property="og:image:height" content="152"/>
+ <!-- og:image::files/assets/pictures/logo.png --><meta property="og:image" content="https://www.yannick-hack.io/assets/pictures/logo.png"/><meta property="og:image:secure_url" content="https://www.yannick-hack.io/assets/pictures/logo.png"/><meta property="og:image:width" content="500"/><meta property="og:image:height" content="152"/>
 <meta name="robots" content="index, follow, archive"/>
 <link href="https://www.yannick-hack.io/index.php" rel="canonical" />
 <meta property="og:url" content="https://www.yannick-hack.io/index.php"/>
@@ -38,6 +35,7 @@
   <style>
   body{margin:0;padding:0;}
   </style>
+  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="0c1f23c6-d9a3-4526-a1a3-28e200869ff3" data-blockingmode="auto" type="text/javascript"></script></head>
 </head>
 <body>
   <div class="fullscreen-bg">
@@ -56,32 +54,7 @@
   <script>
 
   NProgress.start();
-  </script> ﻿
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script> 
-  <script>
 
-
-  window.addEventListener("load", function(){
-  window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#000",
-      "text": "#0f0"
-    },
-    "button": {
-      "background": "#0f0"
-    }
-  },
-  "theme": "classic",
-  "position": "bottom-right",
-  "content": {
-    "message": "Diese Seite nutzt Cookies um ihnen die Bestmögliche Nutzung zu ermöglichen, in dem sie diese Seite verwenden erklären sie sich damit Einverstanden.",
-    "dismiss": "Verstanden!",
-    "link": "Weitere Informationen"
-  }
-  })});
-  </script><br>
   <br>
   <br>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -95,3 +68,12 @@
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
         </span></button> <a class="navbar-brand" href="login.php"><span class=""></span>Anmelden  </a>
          <span class="icon-bar"></span></button> <a class="navbar-brand" href="index.php"><span class="glyphicon glyphicon-fire"></span> Yannick Hack</a>
+<script type="text/javascript">
+    window._mfq = window._mfq || [];
+    (function() {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; mf.defer = true;
+        mf.src = "//cdn.mouseflow.com/projects/12c2fd79-ede2-4480-aa0c-f66225a2808a.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+    })();
+</script>
