@@ -4,6 +4,36 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Yannick Hack Fachinformatiker Systemintegration für die Region.">
+  
+<!-- og:image::files/assets/pictures/logo.png --><meta property="og:image" content="https://www.yannick-hack.io/assets/pictures/logo.png"/><meta property="og:image:secure_url" content="https://www.yannick-hack.io/assets/pictures/logo.png"/><meta property="og:image:width" content="500"/><meta property="og:image:height" content="152"/>
+<meta name="robots" content="index, follow, archive"/>
+<link href="https://www.yannick-hack.io/index.php" rel="canonical" />
+<meta property="og:url" content="https://www.yannick-hack.io/index.php"/>
+<meta property="og:site_name" content="Yannick Hack Fachinformatiker für Systemintegration" />
+<meta property="og:title"  content="">
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:description"     content="">
+<meta property="og:locale"          content="de_DE">
+<!-- twitter:card -->
+<meta name="twitter:card" content="" />
+<meta name="twitter:site"       content="" />
+<meta name="twitter:creator"    content="" />
+<meta name="twitter:title"      content="" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image"     content="https://www.yannick-hack.io/" />
+<meta name="twitter:image:alt" content="" />
+<meta name="application-name" content="Yannick Hack" >
+<meta name="msapplication-tooltip" content="Yannick Hack" >
+<meta name="msapplication-starturl" content="https://www.yannick-hack.io" >
+<!-- additionals::ios -->
+<meta name="apple-mobile-web-app-capable" content="yes" >
+<meta name="apple-mobile-web-app-title" content="Yannick Hack" >
+<!-- additionals::android -->
+<meta name="mobile-web-app-capable" content="yes" >
+<body id="top" class="win chrome blink ch85">
+  
   <noscript><meta http-equiv="refresh" content="0; url=nojs.html" /></noscript>
   <link href="css/stylesheet.css" rel="stylesheet">
   <title>Yannick Hack</title>
